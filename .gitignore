@@ -1,5 +1,6 @@
 .env
 venv
-alembic
-alembic.ini
 .idea
+Dockerfile
+__pycache__/
+*.pyc
