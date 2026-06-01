@@ -3,3 +3,4 @@ venv
 alembic
 alembic.ini
 .idea
+.gitignore
